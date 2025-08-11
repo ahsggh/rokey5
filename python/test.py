@@ -4,3 +4,5 @@ print("bye")
 print("git")
 print("thanks@@@@@@")
 print("thanks~~~~~~")
+print("thanks^^^^^^")
+
